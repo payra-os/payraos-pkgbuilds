@@ -1,5 +1,5 @@
 # Maintainer: Howard Cheung <mail@h-cheung.cf>
-pkgname=orchis-kde-theme-git
+pkgname=payraos-orchis-kde
 _gitname=Orchis-kde
 pkgver=r5.018fd0f
 pkgrel=2
